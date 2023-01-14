@@ -1,4 +1,4 @@
-Simple react app to make mp3 files from youtube videos + aws hosting
+Simple react app to make mp3 files from youtube videos + AWS Static website hosting
 
-AWS site http://youtube2mp3.s3-website-us-east-1.amazonaws.com/
+Link to AWS http://youtube2mp3.s3-website-us-east-1.amazonaws.com/
 
